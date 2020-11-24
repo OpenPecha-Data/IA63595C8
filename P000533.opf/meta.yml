@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W00KG03797
   title: ཐུབ་བསྟན་རྡོ་རྗེ་བྲག་དགོན་གྱི་བྱུང་བ་མདོ་ཙམ་བརྗོད་པ་ངོ་མཚར་བཻ་ཌཱུ་རྱའི་ཕྲེང་བ་
-  volume: ''
+  volume:
+    8cbc3cd946e241b5b285d0421c76bc57:
+      image_group_id: I00KG03832
+      title: Volume 1 of thub bstan rdo rje brag dgon gyi byung ba mdo tsam brjod
+        pa ngo mtshar bai DU r+ya'i phreng ba
+      volume_number: 1
+      total_pages: 49
   author: ''
+ebook_metadata:
+  title: ཐུབ་བསྟན་རྡོ་རྗེ་བྲག་དགོན་གྱི་བྱུང་བ་མདོ་ཙམ་བརྗོད་པ་ངོ་མཚར་བཻ་ཌཱུ་རྱའི་ཕྲེང་བ་
+  author: ''
+  sku: P000533
+  cover: cover.jpg
+  layers:
+  - pagination
